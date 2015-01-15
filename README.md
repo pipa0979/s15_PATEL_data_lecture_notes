@@ -85,4 +85,33 @@ ___
 
 ''' code '''
 
+--------------
+Get
+post
+delete (be extra cautious)
+put
+
+There could be scripts within the script that allows to send request again and agiain. and a good website can do all these in a couple od secs.
+
+
+In amazon, there coiuld be 100's of services each second, 
+rest is a narchitecture in this an approach for building architecture based
+
+crud operations or create and rad updateand destruct
+
+
+get-> rad,
+post->create a new user (create data)
+put->update on a particular user id. i.e. new version of user.
+delete->destroy that user
+
+some things to do:
+what databse i am gonna use?
+id?
+what input?
+what output?
+how do we handle the error?
+
+
+
 
