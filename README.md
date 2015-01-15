@@ -45,3 +45,42 @@ Web interfacr (google)
 
 
 Careful design in request response cycles
+------------------------------
+------------------------------
+=============================
+Lecture 2:
+Presentation:
+MArkdown languages
+-------
+It is a type of markup language
+*plaijn text formatting.
+easily converted to html.
+plain text-->rich text
+teo types:
+std markdown.
+github flavored markdown(gfm)
+
+Headers:
+#H1
+#H2 and so on
+italicks can be done llike *this* or _this_
+strike through
+ i want to
+ go to
+ la
+LInks can done like this
+[google](www.google.com)
+
+code by using """ code """
+
+
+table involves:
+| ---- :
+
+
+LIne:
+---
+***
+___
+
+
