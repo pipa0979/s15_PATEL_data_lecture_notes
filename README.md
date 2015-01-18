@@ -19,7 +19,7 @@ I have just created a new repository for data engineering class.
 * Non-visible Metadata
 * Directory hierarchies
 
-"Data modelling is 'wicked hard'"-  
+_"Data modelling is 'wicked hard'"_-  
 In a big data system, it becomes **very hard and time consuming/expensive** etc... However doable
 If we write data in the wrong format, we might end up with terabyte of data in the wrong format, now we may have to to invest months of time to get it right.
 
@@ -28,26 +28,22 @@ One of the important questions to ask:
 * Is the data clean?
 If its not, trigger batch job that does the _cleaning_ and then store it again.
 Twitter delivers data in json format and handing in json parsers.
-The most used twitter clients is the webbrowser . 
+The most used twitter clients is the webbrowser. Twitter uses utf -8 and not use ascii because it allows to use more characters around the world.
 
-Twitter uses utf -8 and not use ascii because it allows to use more characters around the world.
-
-Data lifecycle:
-It starts with collection
+**Data lifecycle:**
+It starts with collection:
 -generatiion: data generated via sensors etcc...
-Cleanup
-Storage
-Processing/analysis
-qwery/visulaization/act
+* Cleanup
+* Storage
+* Processing/analysis
+* Qwery/visulaization/act
 
 How do we start collecting data?
-Curation: collect data
-TRiage
+* Curation: collect data
+* Triage
 
-
-Interation with big data:
-Web interfacr (google)
-
+Interation with big data:  
+* Web interface (google)
 
 Careful design in request response cycles
 ------------------------------
