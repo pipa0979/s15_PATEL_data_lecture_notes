@@ -5,9 +5,9 @@
 I have just created a new repository for data engineering class.  
 ####**Example of big data**:  
 ---
-1. Data analytics  
-2. Storage  
-3. Social networks  
+* Data analytics  
+* Storage  
+* Social networks  
 
 ####**Discussion about NO sql**, 
 ---
