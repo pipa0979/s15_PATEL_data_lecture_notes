@@ -3,25 +3,28 @@
 ####Lecture 1
 ---
 I have just created a new repository for data engineering class.  
-Example of big data:  
+**Example of big data**:  
 1. Data analytics  
 2. Storage  
 3. Social networks  
 
-Discussion about NO sql, 
+**Discussion about NO sql**, 
 * Document
 * Graphs
 * Key values pairs
-* Colomnars
+* Collections
+* Tags
+* Non-visible Metadata
+* Directory hierarchies
 
-"Data modelling is 'wicked hard'"- 
-in a big data system, it becomes very hard and time consuming/expensive etc... however doable
-If we write data in the wrong format, we have terabyte of data in the wrong format, now we need to invent months of time to get it right.
+"Data modelling is 'wicked hard'"-  
+In a big data system, it becomes **very hard and time consuming/expensive** etc... However doable
+If we write data in the wrong format, we might end up with terabyte of data in the wrong format, now we may have to to invest months of time to get it right.
 
-
-Where is the data coming from. 
-IS the data clean?
-if its not, trigger batch job that does the cleaning and then store it again.
+One of the important questions to ask:  
+* Where is the data coming from?
+* Is the data clean?
+If its not, trigger batch job that does the _cleaning_ and then store it again.
 Twitter delivers data in json format and handing in json parsers.
 The most used twitter clients is the webbrowser . 
 
