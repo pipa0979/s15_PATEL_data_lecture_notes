@@ -1,15 +1,16 @@
 # s15_PATEL_data_lecture_notes
 
-####Lecture 1  
+###Lecture 1  
 ---
 I have just created a new repository for data engineering class.  
-**Example of big data**:  
+####**Example of big data**:  
 ---
 1. Data analytics  
 2. Storage  
 3. Social networks  
 
-**Discussion about NO sql**, 
+####**Discussion about NO sql**, 
+---
 * Document
 * Graphs
 * Key values pairs
