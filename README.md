@@ -45,9 +45,7 @@ How do we start collecting data?
 Interation with big data:  
 * Web interface (google)
 
-Careful design in request response cycles
-------------------------------
-------------------------------
+######Careful design in request response cycles
 =============================
 Lecture 2:
 Presentation:
