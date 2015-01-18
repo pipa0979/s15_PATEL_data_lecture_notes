@@ -1,18 +1,18 @@
 # s15_PATEL_data_lecture_notes
 
-##Lecture 1
-
-I have just created a new repository for data engineering class.
-Example of big data:
-1. Data analytics
-2. strorage
-3. Social networks
+####Lecture 1
+---
+I have just created a new repository for data engineering class.  
+Example of big data:  
+1. Data analytics  
+2. Storage  
+3. Social networks  
 
 Discussion about NO sql, 
--Documnt
--Graphs-
--key values pairs
--Colomnars
+* Document
+* Graphs
+* Key values pairs
+* Colomnars
 
 "Data modelling is 'wicked hard'"- 
 in a big data system, it becomes very hard and time consuming/expensive etc... however doable
