@@ -3,13 +3,13 @@
 ###Lecture 1  
 ---
 I have just created a new repository for data engineering class.  
-####**Example of big data**:  
+#####**Example of big data**:  
 ---
 * Data analytics  
 * Storage  
 * Social networks  
 
-####**Discussion about NO sql**, 
+#####**Discussion about NO sql**, 
 ---
 * Document
 * Graphs
