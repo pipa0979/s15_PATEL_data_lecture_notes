@@ -9,7 +9,7 @@ I have just created a new repository for data engineering class.
 * Storage  
 * Social networks  
 
-######**Discussion about NO sql**, 
+######**Discussion about NO sql**:  
 ---
 * Document
 * Graphs
