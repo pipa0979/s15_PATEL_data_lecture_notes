@@ -83,6 +83,9 @@ int i=0;
 int j=100;
 cout<<"Data Engineering is awesome!!!!"
 ```
+####7. Blockquote `Use block quote like this > Some paragraph`  
+>This is how we write a block quote. The block quote is essential when specifying a paragraph.
+This is also essential when we need to highlight a block of paragraph.
 
 table involves:
 | ---- :
