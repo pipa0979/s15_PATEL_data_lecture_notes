@@ -72,9 +72,8 @@ _This is italics_
 ####3. Italics: 
 
 This is ~~strike through~~
- i want to
- go to
- la
+
+
 LInks can done like this
 [google](www.google.com)
 
