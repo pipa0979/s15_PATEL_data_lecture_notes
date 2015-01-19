@@ -62,11 +62,16 @@ It is a type of markup language plain text formatting. easily converted to html.
 ####This is H4
 #####This is H5
 ######This is H6
-Headers:
-#H1
-#H2 and so on
-italicks can be done llike *this* or _this_
-strike through
+
+####2. Bold:  
+*This is bold*
+
+####3. Italics: 
+_This is italics_
+
+####3. Italics: 
+
+This is ~~strike through~~
  i want to
  go to
  la
