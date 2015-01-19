@@ -55,7 +55,7 @@ It is a type of markup language plain text formatting. easily converted to html.
 * Standard markdown.
 * Github flavored markdown(gfm)
 
-####1. Types of header:
+####1. Types of header `#, ##, ###,..., ######`:
 #This is H1
 ##This is H2
 ###This is H3
@@ -63,22 +63,26 @@ It is a type of markup language plain text formatting. easily converted to html.
 #####This is H5
 ######This is H6
 
-####2. Bold:  
+####2. Bold `use ** infront of a word`:  
 *This is bold*
 
-####3. Italics: 
+####3. Italics `use _use the word here_`: 
 _This is italics_
 
-####3. Italics: 
-
+####4. Strikethrough `use strikethrough ~likethis~`:  
 This is ~~strike through~~
 
+####5. Links `use as [Name of the link](actual link)`:
+[google](www.google.com)  
+[Reference link to bing.com] [refer1]  
+[refer1]:www.bing.com
 
-LInks can done like this
-[google](www.google.com)
-
-code by using """ code """
-
+####6. Write code ` ```Within backtick```  `
+```
+int i=0;
+int j=100;
+cout<<"Data Engineering is awesome!!!!"
+```
 
 table involves:
 | ---- :
