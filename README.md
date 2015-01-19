@@ -51,14 +51,17 @@ Interation with big data:
 Presentation:
 ######Markdown languages
 -------
-It is a type of markup language
-*plaijn text formatting.
-easily converted to html.
-plain text-->rich text
-teo types:
-std markdown.
-github flavored markdown(gfm)
+It is a type of markup language plain text formatting. easily converted to html. Plain text-->rich text types:
+* Standard markdown.
+* Github flavored markdown(gfm)
 
+####1. Types of header:
+#This is H1
+##This is H2
+###This is H3
+####This is H4
+#####This is H5
+######This is H6
 Headers:
 #H1
 #H2 and so on
