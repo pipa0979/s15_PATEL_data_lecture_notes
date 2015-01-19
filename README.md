@@ -47,9 +47,9 @@ Interation with big data:
 
 ######Careful design in request response cycles
 =============================
-Lecture 2:
+###Lecture 2:
 Presentation:
-MArkdown languages
+######Markdown languages
 -------
 It is a type of markup language
 *plaijn text formatting.
@@ -87,7 +87,7 @@ ___
 --------------
 Get
 post
-delete (be extra cautious)
+delete (be extra clautious)
 put
 
 There could be scripts within the script that allows to send request again and agiain. and a good website can do all these in a couple od secs.
