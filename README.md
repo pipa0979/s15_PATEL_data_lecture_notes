@@ -127,4 +127,70 @@ how do we handle the error?
 
 
 
+-----------------------
+
+LEcture 3
+
+REST is an architectureal style for web services 
+* invented by ROy 
+* REST is an aproach to developing web services that mimics the design of the web itself
+* your service provides access to a linked set of resources.
+* for each resoucem you can perform operations on ot similar to the main operations of the http specification.
+
+Rest operation:
+for each resource you can typically use atlease one of the following
+* HTTP method:
+* POST-> create a resoiurce
+* get -> read a resource
+* put -> update a resource
+* delete-> delete a resource
+
+Examples(1)
+GET/api/1.0/users
+Retrive a list of all users  
+
+GET/api/1.0/users/0
+->Retrieve details of user 0.
+POST/api/1.0/users
+->create a new user.
+
+Examples(2)
+PUT/api/1.0/users/0
+Update user 0  
+
+DELETE/api/1.0/users/0
+Delete user 0  
+GET/ api/1.0/search?q=tattersail
+Perform a search with the query tattersail
+
+-----------
+DISCUSSION (1)
+* Each operation may produce a result.
+*  1. With RESTful services, JSON format is king
+* POST and PUT methods typically end data
+* 1. Also in JSON format
+* 2. MAy be in the url or in the body of the HTTP Request
+*  for GET, the data may appear as query params
+* 
+
+* Other formats are possible: HTML and xml are typically
+* If a request needs to be authenticated
+* * the authetication data appears in the HTT headers.
+* 
+Discussion (2)
+How do you think operations on two resources are handeled?
+
+
+ISSUES:
+* Security: HOw do you autheticate users?
+* Identity: How are ids assigned to resources?
+* Failure:How do we handle failure situations?
+  1. We see how its done is json
+  2. we could have used 404,500 etc
+  3. most services will use a combination of both.
+* Persistance: How are resources stored?
+* 
+
+
+
 
