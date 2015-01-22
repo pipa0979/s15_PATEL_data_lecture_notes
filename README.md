@@ -192,5 +192,39 @@ ISSUES:
 * 
 
 
+###Lecture 3  
+Topics:
+* Workflow
+1. Untracked
+* Theseare not yet in the repository.
+1. Initialise your repository.
+2. Add existing items to the repositiory.
+3. 
 
+clone:
+get clone remote_address
 
+1. git branch
+2. gtit branch new_beanch_name
+3. git branch -d new_beanch
+checkout:
+git checkout branch_name
+git checkout commit
+
+add:
+git add _file_
+
+usuage:
+git commit -m "commit message"
+
+merge:
+git merge branch_name
+
+pull:
+git poull [remote_repository
+
+[branchname]
+
+push:
+git push [reomte repostirory]
+Everything about and github
