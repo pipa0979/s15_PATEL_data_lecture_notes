@@ -228,3 +228,13 @@ git poull [remote_repository
 push:
 git push [reomte repostirory]
 Everything about and github
+------------------------------
+###Lecture 3:  
+**NodeJS**
+hello world in nodejs
+
+Javascript is a functional prog lang.
+ction
+http.createServer(<>funn)
+
+http://epic-research.cs.colorado.edu:8080/api/1.0/methods
