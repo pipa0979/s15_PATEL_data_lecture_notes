@@ -245,3 +245,13 @@ http://epic-research.cs.colorado.edu:8080/api/1.0/methods
 *Express
 This link
 http://cu-data-engineering-s15.github.io/lecture_06/#/16
+
+
+
+###Lecture 8
+Read about bootstrap.js
+NodeJs
+bootstrap.js
+
+Creaste a service using angular js.
+Do a Post using on  the HTTP, 
