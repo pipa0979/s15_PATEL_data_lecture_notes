@@ -15,7 +15,7 @@ I have just created a new repository for data engineering class.
 * Graphs
 * Key values pairs
 * Collections
-* Tags
+* Tags 
 * Non-visible Metadata
 * Directory hierarchies
 
