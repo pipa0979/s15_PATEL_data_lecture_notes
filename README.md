@@ -18,7 +18,7 @@ I have just created a new repository for data engineering class.
 * Tags 
 * Non-visible Metadata
 * Directory hierarchies
-
+ 
 _"Data modelling is 'wicked hard'"_-  
 In a big data system, it becomes **very hard and time consuming/expensive** etc... However doable
 If we write data in the wrong format, we might end up with terabyte of data in the wrong format, now we may have to to invest months of time to get it right.
